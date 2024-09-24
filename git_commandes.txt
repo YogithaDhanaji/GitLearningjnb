@@ -19,3 +19,13 @@ git push[local repo=>remote repo]
 git clone [remote repo(exact copy)=> local workspace]
 
 git pull[remote repo(change)=> local workspace]
+
+git remote add remote_name path 
+
+eg: git remote add origin https://github.com/YogithaDhanaji/GitLearningjnb.git
+
+git push remote_name branch
+
+eg: git push origin master
+
+git branch(show current branch)
