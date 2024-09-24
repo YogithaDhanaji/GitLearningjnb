@@ -1,0 +1,5 @@
+git config --list[list user configuration]
+
+git config --globle user.name "name"
+
+git config --globle user.email "user mailid"
