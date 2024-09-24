@@ -1,8 +1,8 @@
 git config --list[list user configuration]
 
-git config --globle user.name "name"
+git config --global user.name "name"
 
-git config --globle user.email "user mailid"
+git config --global user.Email "user mailid"
 
 git init [initialize git in cwf]
 
@@ -14,8 +14,8 @@ git commit -m "commit msg"
 
 git status [list all untrack files]
 
-git push[localrepo=>remote repo]
+git push[local repo=>remote repo]
 
-git clone [remote repo(exact copy)=> localworkspace]
+git clone [remote repo(exact copy)=> local workspace]
 
 git pull[remote repo(change)=> local workspace]
