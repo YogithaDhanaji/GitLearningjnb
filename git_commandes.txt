@@ -11,3 +11,11 @@ git add
 git add -A[adding all changes to staging area]
 
 git commit -m "commit msg"
+
+git status [list all untrack files]
+
+git push[localrepo=>remote repo]
+
+git clone [remote repo(exact copy)=> localworkspace]
+
+git pull[remote repo(change)=> local workspace]
