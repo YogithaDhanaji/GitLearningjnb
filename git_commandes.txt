@@ -3,3 +3,11 @@ git config --list[list user configuration]
 git config --globle user.name "name"
 
 git config --globle user.email "user mailid"
+
+git init [initialize git in cwf]
+
+git add
+
+git add -A[adding all changes to staging area]
+
+git commit -m "commit msg"
